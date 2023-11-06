@@ -24,8 +24,8 @@ def text(user_text):
 
 def translator(input_edited):
     # Add your key and endpoint
-    key = "dfb6453cdef942c3ad0a00b4d59f00f8"
-    endpoint = "https://api.cognitive.microsofttranslator.com"
+    key = "1f902ed618224f54930db54288e9a28e"
+    endpoint = "https://api.cognitive.microsofttranslator.com/"
 
     # location, also known as region.
     # required if you're using a multi-service or regional (not global) resource. It can be found in the Azure portal on the Keys and Endpoint page.
